@@ -1,0 +1,57 @@
+.img1 {
+	background-image: url(foto1.jpg);
+}
+
+.img2 {
+	background-image: url(foto2.jpg);
+}
+
+.img3 {
+	background-image: url(foto3.jpg);
+}
+
+.img4 {
+	background-image: url(foto4.jpg);
+}
+
+.img5{
+	background-image: url(foto5.jpg);
+}
+
+.img6{
+	background-image: url(foto6.jpg);
+}
+
+.img7{
+	background-image: url(foto7.jpg);
+}
+
+.img8 {
+	background-image: url(foto8.jpg);
+}
+
+.img9 {
+	background-image: url(foto9.jpg);
+}
+
+
+.img {
+	/*position: relative*/;
+	float: left;
+	width: 30%;
+	height: 450px;
+	background-position: 50% 50%;
+	margin: 1.66%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p {
+	font-family: 'Raleway';
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #ff9999;
+	width: 30%;
+}
